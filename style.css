@@ -1,0 +1,20 @@
+h1,h2,h3,p { text-align: center }
+IMG.displayed { /*stack*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+ul{ /*stack*/
+    display: table;
+    margin: auto;
+    max-width:;/*para centraliza*/
+}
+abbr { /*stack*/
+        text-decoration:none;
+        display: block;
+        position: center top; 
+        font: normal;
+}
+body{/*stack*/
+    background-color: antiquewhite;
+}
+   
